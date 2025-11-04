@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @atharavgoyal07
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning CS50
-- 💞️ I’m looking to collaborate on edx
 - 📫 How to reach me - mail me atharavgoyal07@gmail.com
 
 
