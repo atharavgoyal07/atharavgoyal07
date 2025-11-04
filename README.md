@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @atharavgoyal07
-- 👀 I’m interested in computer science
-- 📫 How to reach me - mail me atharavgoyal07@gmail.com
+- Hi, I’m @atharavgoyal07
+- I’m studying computer science
+- Student at Thapar University 
+- Learning Web Dev and ML concepts
 
 
 <!---
